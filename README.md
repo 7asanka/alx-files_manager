@@ -9,7 +9,7 @@ Change permission of a file
 View a file
 Generate thumbnails for images
 
-Learning Objectives
+<h2>Learning Objectives</h2>
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 how to create an API with Express
