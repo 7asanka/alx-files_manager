@@ -2,6 +2,7 @@ import dbClient from '../utils/db.js';
 import sha1 from 'sha1';
 import redisClient from '../utils/redis.js';
 import { ObjectId } from 'mongodb';
+/* eslint-disable import/no-named-as-default */
 
 
 class UsersController {

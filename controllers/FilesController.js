@@ -4,6 +4,7 @@ import path from 'path';
 import { v4 as uuidv4 } from 'uuid';
 import mime from 'mime-types';
 import Queue from 'bull';
+/* eslint-disable import/no-named-as-default */
 
 import dbClient from '../utils/db.js';
 import redisClient from '../utils/redis.js';
